@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+        언제쯤 react 활용을 자유롭게 구사할까?
         </a>
       </header>
     </div>
