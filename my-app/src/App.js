@@ -9,9 +9,16 @@ function App() {
         {/*         <img src={logo} className="App-logo" alt="logo" /> */}
         <p>
           {hellow}
-        </p>        
-           Learn React
-           Git merage Test
+        </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >           Learn React <br />
+          Git merage Test <br />
+          언제쯤 react 활용을 자유롭게 구사할까?
+        </a>
       </header>
     </div>
   );
